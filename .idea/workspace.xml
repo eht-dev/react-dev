@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="89b7150d-1fa3-41b8-9b26-e87fcff341ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.zip" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +124,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1919" />
+    <option name="x" value="-1921" />
     <option name="y" value="-4" />
     <option name="width" value="1922" />
     <option name="height" value="1085" />
@@ -183,15 +184,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593720741225</updated>
-      <workItem from="1593720742518" duration="24639000" />
+      <workItem from="1593720742518" duration="25479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24639000" />
+    <option name="totallyTimeSpent" value="25479000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1919" y="-4" width="1922" height="1085" extended-state="6" />
+    <frame x="-1921" y="-4" width="1922" height="1085" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
