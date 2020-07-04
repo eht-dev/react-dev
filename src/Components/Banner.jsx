@@ -13,7 +13,7 @@ class Banner extends Component {
                             <div className="d-md-flex">
                                 <div className="w3ls_banner_txt">
                                     <h3 className="w3ls_pvt-title">Business <br/><span>Startup</span></h3>
-                                    <p className="text-sty-banner">Sed ut Ehtesham unde omnis iste natus doloremque
+                                    <p className="text-sty-banner">Sed ut Ehtesham nasim omnis iste natus doloremque
                                         laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et
                                         quasi.</p>
                                     <a href="about.html" className="btn button-style mt-md-5 mt-4">Read More</a>
