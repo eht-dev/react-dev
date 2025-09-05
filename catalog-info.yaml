@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: react-dev
+  description: React Frontend
+  annotations:
+    github.com/project-slug: ehteshamnasim/react-dev
+    backstage.io/techdocs-ref: dir:.
+  tags:
+    - frontend
+    - react
+  links:
+    - url: https://github.com/ehteshamnasim/react-dev
+      title: GitHub Repository
+      icon: github
+spec:
+  type: service
+  owner: user:default/ehteshamnasim
+  lifecycle: experimental
